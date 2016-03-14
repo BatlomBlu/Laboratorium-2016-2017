@@ -1,7 +1,7 @@
 # Laboratorium-2016-2017
 
 S. Sokołowski
-[Języki programowania, rok 1](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/)
+[Treści zadań](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
 
 1. [Laboratorium 01]  (/lab01):
 
