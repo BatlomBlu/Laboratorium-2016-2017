@@ -13,5 +13,5 @@ S. Sokołowski
 	
 4. [Laboratorium 04]  (/Lab04):
 	* 
-	*☑ [zad01.c](Lab04/zad01.c)
+	  ☑ [zad01.c](Lab04/zad01.c)
 	* ☐ [zad02.c](Lab04/zad02.c)
