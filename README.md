@@ -12,5 +12,5 @@ S. Sokołowski
 	* [ ] [zad06.c](lab01/zad06.c) 
 	
 4. [Laboratorium 04]  (/Lab04):
-	☑ [zad01.c](Lab04/zad01.c)
-	☐ [zad02.c](Lab04/zad02.c)
+	 ☑ [zad01.c](Lab04/zad01.c)
+	 ☐ [zad02.c](Lab04/zad02.c)
