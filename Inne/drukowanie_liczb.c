@@ -2,11 +2,8 @@
 
 int TAB[7];
 
-int main(){
-	long long liczba = 0;
+void func(long long liczba){
 	int reszta, i=0;
-	printf ("Podaj liczbę: ");
-	scanf ("%lli", &liczba);
 	while (liczba>1){
 		reszta=liczba%1000;
 		TAB[i]=reszta;
@@ -20,5 +17,14 @@ int main(){
 		else 
 			printf("%i\n",TAB[i]);
 	}
+}
+int main(){
+	
+	long long liczba = 0;
+	int reszta, i=0;
+	printf ("Podaj liczbę: ");
+	scanf ("%lli", &liczba);
+	func(liczba);
+	
 	return 0;
 }
