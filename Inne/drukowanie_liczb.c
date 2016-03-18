@@ -2,7 +2,7 @@
 
 int TAB[7];
 
-void func(long long liczba){
+void printspace(long long liczba){
 	int reszta, i=0;
 	while (liczba>1){
 		reszta=liczba%1000;
@@ -24,7 +24,7 @@ int main(){
 	int reszta, i=0;
 	printf ("Podaj liczbę: ");
 	scanf ("%lli", &liczba);
-	func(liczba);
+	printspace (liczba);
 	
 	return 0;
 }
