@@ -14,3 +14,7 @@ S. Sokołowski
 4. [Laboratorium 04]  (/Lab04):
 	* [x] [zad01.c](Lab04/zad01.c)
 	* [ ] [zad02.c](Lab04/zad02.c)
+
+5. [Laboratorium 05]  (/Lab05):
+	* [x] [zad01.c](Lab05/zad01.c)
+	* [ ] [zad02.c](Lab05/zad02.c)
