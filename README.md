@@ -25,7 +25,8 @@ S. Sokołowski
 	* [ ] [zad02.c](Lab05/zad02.c)
 
 6. [Laboratorium 06]  (/Lab06):
-
+	* [x] [zad01.c](Lab06/Zad01.c)
+	
 7. [Laboratorium 07]  (/Lab07):
 	
 8. [Laboratorium 08]  (/Lab08) [done] :
