@@ -28,7 +28,7 @@ S. Sokołowski
 
 7. [Laboratorium 07]  (/Lab07):
 	
-8. [Laboratorium 08]  (/Lab08):
+8. [Laboratorium 08] [x] (/Lab08):
  	* [x] [zad01.c](Lab08/Zad01.c)
 	* [x] [zad02.c](Lab08/Zad02.c)
 	* [x] [zad03.c](Lab08/Zad03.c)
