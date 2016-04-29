@@ -20,7 +20,7 @@ S. Sokołowski
 	* [ ] [zad02.c](Lab05/zad02.c)
 	
 7. [Laboratorium 07]  (/Lab07):
- 	* [x] [zad01.c](lab07/zad01.c)
-	* [x] [zad02.c](lab07/zad02.c)
-	* [x] [zad03.c](lab07/zad03.c)
-	* [ ] [zad04.c](lab07/zad04.c) 
+ 	* [x] [zad01.c](Lab07/zad01.c)
+	* [x] [zad02.c](Lab07/zad02.c)
+	* [x] [zad03.c](Lab07/zad03.c)
+	* [ ] [zad04.c](Lab07/zad04.c) 
