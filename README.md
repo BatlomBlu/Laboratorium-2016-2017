@@ -10,17 +10,26 @@ S. Sokołowski
 	* [ ] [zad04.c](lab01/zad04.c) 
 	* [ ] [zad05.c](lab01/zad05.c)
 	* [ ] [zad06.c](lab01/zad06.c) 
-	
+	* 
+2. [Laboratorium 02]  (/Lab02):	
+ 
+3. [Laboratorium 03]  (/Lab03):	
+
 4. [Laboratorium 04]  (/Lab04):
+
 	* [x] [zad01.c](Lab04/zad01.c)
 	* [ ] [zad02.c](Lab04/zad02.c)
 
 5. [Laboratorium 05]  (/Lab05):
 	* [x] [zad01.c](Lab05/zad01.c)
 	* [ ] [zad02.c](Lab05/zad02.c)
-	
+
+6. [Laboratorium 06]  (/Lab06):
+
 7. [Laboratorium 07]  (/Lab07):
- 	* [x] [zad01.c](Lab07/Zad01.c)
-	* [x] [zad02.c](Lab07/Zad02.c)
-	* [x] [zad03.c](Lab07/Zad03.c)
-	* [ ] [zad04.c](Lab07/Zad04.c) 
+	
+8. [Laboratorium 08]  (/Lab08):
+ 	* [x] [zad01.c](Lab08/Zad01.c)
+	* [x] [zad02.c](Lab08/Zad02.c)
+	* [x] [zad03.c](Lab08/Zad03.c)
+	* [ ] [zad04.c](Lab08/Zad04.c) 
