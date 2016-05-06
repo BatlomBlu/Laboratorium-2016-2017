@@ -2,7 +2,7 @@ CC=gcc
 CFLAGS = -Wall -std=c11
 LDLIBS = -lm
 
-SOURCES = Zad01 Zad02 Zad03
+SOURCES = Zad01
 
 all: 	$(SOURCES)
 clean:
