@@ -4,8 +4,10 @@ LDLIBS = -lm
 
 SOURCES = Zad01
 
-all: 	$(SOURCES)
+all: $(SOURCES)
+
+
 clean:
 	rm -f $(SOURCES)
-
+	
 .PHONY: all clean
