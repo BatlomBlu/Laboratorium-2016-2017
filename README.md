@@ -3,6 +3,13 @@
 S. Sokołowski
 [Treści zadań](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
 
+Moje ulubione Zadania (2-3 zadania!):
+
+
+
+
+
+
 1. [Laboratorium 01]  (/Lab01):
  	* [x] [zad01.c](Lab01/Zad01.c)
 	* [x] [zad02.c](Lab01/Zad02.c)
