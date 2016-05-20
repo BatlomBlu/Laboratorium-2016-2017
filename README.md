@@ -42,7 +42,7 @@ Moje ulubione Zadania (2-3 zadania!):
 	* [x] [zad01.c](Lab06/Zad01.c)
 	* [ ] [zad02.c](Lab06/Zad02.c)
 	* [ ] [zad03.c](Lab06/Zad03.c)	
-	* 
+	 
 7. [Laboratorium 07]  (/Lab07):
 	* [x] [zad01.c](Lab07/Zad01.c)
 	* [ ] [zad02.c](Lab07/Zad02.c)
