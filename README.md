@@ -4,7 +4,7 @@ S. Sokołowski
 [Treści zadań](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
 
 1. [Laboratorium 01]  (/Lab01):
- 	* [x] [zad01.c](lab01/Zad01.c)
+ 	* [x] [zad01.c](Lab01/Zad01.c)
 	* [x] [zad02.c](Lab01/Zad02.c)
 	* [ ] [zad03.c](Lab01/Zad03.c)
 	* [x] [zad04.c](Lab01/Zad04.c) 
