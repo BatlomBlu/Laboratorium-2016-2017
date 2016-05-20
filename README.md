@@ -35,10 +35,10 @@ S. Sokołowski
   |double     |        8|        2.225074e-308|        1.797693e+308|   2.220446e-16|      15  |
   |long double|       16|       3.362103e-4932|       1.189731e+4932|   1.084202e-19|      18  |
 
- 	* [ ] [zad01.c](Lab01/Zad01.c)
-	* [ ] [zad02.c](Lab01/Zad02.c)
-	* [ ] [zad03.c](Lab01/Zad03.c)
-	* [ ] [zad04.c](Lab01/Zad04.c) 
+ 	* [ ] [zad01.c](Lab03/Zad01.c)
+	* [x] [zad02.c](Lab03/Zad02.c)
+	* [ ] [zad03.c](Lab03/Zad03.c)
+	* [ ] [zad04.c](Lab03/Zad04.c) 
 	 
 4. [Laboratorium 04]  (/Lab04):
 
