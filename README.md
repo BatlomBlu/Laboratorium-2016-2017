@@ -3,13 +3,13 @@
 S. Sokołowski
 [Treści zadań](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
 
-1. [Laboratorium 01]  (/lab01):
+1. [Laboratorium 01]  (/Lab01):
  	* [x] [zad01.c](lab01/Zad01.c)
-	* [x] [zad02.c](lab01/Zad02.c)
-	* [ ] [zad03.c](lab01/Zad03.c)
-	* [x] [zad04.c](lab01/Zad04.c) 
-	* [x] [zad05.c](lab01/Zad05.c)
-	* [x] [zad06.c](lab01/Zad06.c) 
+	* [x] [zad02.c](Lab01/Zad02.c)
+	* [ ] [zad03.c](Lab01/Zad03.c)
+	* [x] [zad04.c](Lab01/Zad04.c) 
+	* [x] [zad05.c](Lab01/Zad05.c)
+	* [x] [zad06.c](Lab01/Zad06.c) 
 
 2. [Laboratorium 02]  (/Lab02):	
 	* [x] [zad01.c](Lab02/Zad01.c)
