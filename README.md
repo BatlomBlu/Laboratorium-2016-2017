@@ -3,7 +3,7 @@
 S. Sokołowski
 [Treści zadań](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
 
-Moje ulubione Zadania (2-3 zadania!):
+Moje ulubione Zadania (2-3 zadania!): <br />
 	* [Lab07/zad01.c](Lab07/Zad01.c)
 
 
