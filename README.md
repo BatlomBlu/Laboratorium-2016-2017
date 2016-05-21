@@ -5,9 +5,8 @@ S. Sokołowski
 
 0. [Moje ulubione Zadania] (/Ulubione) (2-3 zadania!):
 	* [x] [Lab07/zad01.c](Ulubione/Lab07Zad01.c)
-
-
-
+	* [x] [Lab15/zad01.c](Ulubione/Lab15Zad01.c)
+	* [x] [Lab15/zad05.c](Ulubione/Lab15Zad05.c)
 
 
 1. [Laboratorium 01]  (/Lab01):
