@@ -37,8 +37,8 @@ S. Sokołowski
 
  	* [ ] [zad01.c](Lab03/Zad01.c)
 	* [x] [zad02.c](Lab03/Zad02.c)
-	* [ ] [zad03.c](Lab03/Zad03.c)
-	* [ ] [zad04.c](Lab03/Zad04.c) 
+	* [x] [zad03.c](Lab03/Zad03.c)
+	* [x] [zad04.c](Lab03/Zad04.c) 
 	 
 4. [Laboratorium 04]  (/Lab04):
 
