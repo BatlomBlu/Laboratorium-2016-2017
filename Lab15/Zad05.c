@@ -38,6 +38,6 @@ int dayOfWeek(int year, int month, int day){
 	day=((((((year-1-x)/100)%4)*5)+x+(x/4))%7);
 	day+=dayOfYear;
 	day=day%7;
-		
+	
 	return day;
 }
