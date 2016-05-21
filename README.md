@@ -90,10 +90,10 @@ S. Sokołowski
 	 * [ ] [Zadanie 3](lab14/zad03.c)
 
 15. [Laboratorium 15](lab15)
- 	* [ ] [Zadanie 1](lab15/zad01.c)
- 	* [ ] [Zadanie 2](lab15/zad02.c)
+ 	* [x] [Zadanie 1](lab15/zad01.c) [✓] 
+ 	* [ ] [Zadanie 2](lab15/zad02.c) 
  	* [ ] [Zadanie 3](lab15/zad03.c)
- 	* [ ] [Zadanie 4](lab15/zad04.c)
- 	* [ ] [Zadanie 5](lab15/zad05.c)
+ 	* [x] [Zadanie 4](lab15/zad04.c) [✓] 
+ 	* [x] [Zadanie 5](lab15/zad05.c) [✓] 
  	
 Uzupełnić do 23.05.06
