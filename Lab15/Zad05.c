@@ -41,8 +41,3 @@ int dayOfWeek(int year, int month, int day){
 		
 	return day;
 }
-
-		
-
-
-		
