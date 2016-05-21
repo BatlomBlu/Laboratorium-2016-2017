@@ -4,9 +4,10 @@ S. Sokołowski
 [Treści zadań](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
 
 0. [Moje ulubione Zadania] (/Ulubione) (2-3 zadania!):
-	* [x] [Lab07/zad01.c](Ulubione/Lab07Zad01.c)
-	* [x] [Lab15/zad01.c](Ulubione/Lab15Zad01.c)
-	* [x] [Lab15/zad05.c](Ulubione/Lab15Zad05.c)
+	* [x] [Lab07/zad01.c](Ulubione/Lab07zad01.c)
+	* [x] [Lab15/zad01.c](Ulubione/Lab15zad01.c)
+	* [x] [Lab15/zad01.c](Ulubione/Lab15zad04.c)
+	* [x] [Lab15/zad05.c](Ulubione/Lab15zad05.c)
 
 
 1. [Laboratorium 01]  (/Lab01):
