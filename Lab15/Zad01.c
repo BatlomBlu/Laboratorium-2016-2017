@@ -8,6 +8,7 @@ void manFirst();
 
 int main(){
   int choice=0;
+  
   printf("==========================================\n");
   printf("CZŁOWIEK PIERWSZY 0 || KOMPUTER PIERWSZY 1\n");
   printf("==========================================\n");
@@ -23,6 +24,7 @@ int main(){
 
 void aiFirst(){
   int ai, man=0, sum=0;
+  
   while (sum<20){
     if (4-(sum%4)<4){
       ai=4-(sum%4);
