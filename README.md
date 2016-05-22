@@ -65,31 +65,31 @@ S. Sokołowski
 	* [x] [zad03.c](Lab08/Zad03.c) 
 	* [x] [zad04.c](Lab08/Zad04.c) 
 	
-9. [Laboratorium 9](lab09)
+9. [Laboratorium 9]
  	* [ ] [Zadanie 1](lab09/zad01.c)
  	* [ ] [Zadanie 2](lab09/zad02.c)
  
-10. [Laboratorium 10](lab10)
+10. [Laboratorium 10]
  	* [ ] [Zadanie 1](lab10/zad01.c)
  	* [ ] [Zadanie 2](lab10/zad02.c)
 	* [ ] [Zadanie 3](lab10/zad03.c)
 
-11. [Laboratorium 11](lab11)
+11. [Laboratorium 11]
  	* [ ] [Zadanie 1](lab11/zad01.c)
  	* [ ] [Zadanie 2](lab11/zad02.c)
  	* [ ] [Zadanie 3](lab11/zad03.c)
 
-13. [Laboratorium 13](lab13)
+13. [Laboratorium 13](/lab13)
  	* [x] [Zadanie 1](lab13/zad01.c)
  	* [ ] [Zadanie 2](lab13/zad02.c)
  	* [ ] [Zadanie 3](lab13/zad03.c)
 
-14. [Laboratorium 14](lab14)
+14. [Laboratorium 14]
 	 * [ ] [Zadanie 1](lab14/zad01.c)
 	 * [ ] [Zadanie 2](lab14/zad02.c)
 	 * [ ] [Zadanie 3](lab14/zad03.c)
 
-15. [Laboratorium 15](lab15)
+15. [Laboratorium 15](/lab15)
  	* [x] [Zadanie 1](lab15/zad01.c) 
  	* [ ] [Zadanie 2](lab15/zad02.c) 
  	* [ ] [Zadanie 3](lab15/zad03.c)
