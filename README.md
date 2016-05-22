@@ -46,8 +46,8 @@ S. Sokołowski
 	* [ ] [zad02.c](Lab04/Zad02.c)
 
 5. [Laboratorium 05]  (/Lab05):
-	* [x] [zad01.c](Lab05/zad01.c)
-	* [ ] [zad02.c](Lab05/zad02.c)
+	* [x] [zad01.c](Lab05/Zad01.c)
+	* [ ] [zad02.c](Lab05/Zad02.c)
 
 6. [Laboratorium 06]  (/Lab06):
 	* [x] [zad01.c](Lab06/Zad01.c) 
