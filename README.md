@@ -79,21 +79,21 @@ S. Sokołowski
  	* [ ] [Zadanie 2](lab11/zad02.c)
  	* [ ] [Zadanie 3](lab11/zad03.c)
 
-13. [Laboratorium 13](/lab13)
- 	* [x] [Zadanie 1](lab13/zad01.c)
- 	* [ ] [Zadanie 2](lab13/zad02.c)
- 	* [ ] [Zadanie 3](lab13/zad03.c)
+13. [Laboratorium 13](/Lab13)
+ 	* [x] [Zadanie 1](Lab13/zad01.c)
+ 	* [ ] [Zadanie 2](Lab13/zad02.c)
+ 	* [ ] [Zadanie 3](Lab13/zad03.c)
 
 14. [Laboratorium 14](/lab14)
 	 * [ ] [Zadanie 1](lab14/zad01.c)
 	 * [ ] [Zadanie 2](lab14/zad02.c)
 	 * [ ] [Zadanie 3](lab14/zad03.c)
 
-15. [Laboratorium 15](/lab15)
- 	* [x] [Zadanie 1](lab15/zad01.c) 
- 	* [ ] [Zadanie 2](lab15/zad02.c) 
- 	* [ ] [Zadanie 3](lab15/zad03.c)
- 	* [x] [Zadanie 4](lab15/zad04.c) 
- 	* [x] [Zadanie 5](lab15/zad05.c)
+15. [Laboratorium 15](/Lab15)
+ 	* [x] [Zadanie 1](Lab15/zad01.c) 
+ 	* [ ] [Zadanie 2](Lab15/zad02.c) 
+ 	* [ ] [Zadanie 3](Lab15/zad03.c)
+ 	* [x] [Zadanie 4](Lab15/zad04.c) 
+ 	* [x] [Zadanie 5](Lab15/zad05.c)
  	
 Uzupełnić do 23.05.06
